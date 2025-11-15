@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quizapp">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuizApp">
+
+        <!-- Login Screen (Launcher Activity) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Registration Screen -->
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+
+        <!-- Quiz List -->
+        <activity
+            android:name=".QuizListActivity"
+            android:exported="false" />
+
+        <!-- Quiz Activity -->
+        <activity
+            android:name=".QuizActivity"
+            android:exported="false" />
+
+        <!-- Result Screen -->
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+
+        <!-- Main Activity (Not launcher) -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>
