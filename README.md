@@ -40,7 +40,7 @@ Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result S
     <th>Result:</th>
   </tr>
   <tr>
-    <td><img width="359" height="801" alt="ass1" src="https://github.com/user-attachments/assets/54d3e9da-1ed0-4992-974b-ea74316bbfb7" />
+    <td><img width="200" height="650" alt="ass1" src="https://github.com/user-attachments/assets/54d3e9da-1ed0-4992-974b-ea74316bbfb7" />
 </td>
     <td><img width="357" height="801" alt="ass2" src="https://github.com/user-attachments/assets/b8b017bf-a443-4bd9-9c82-902e0d8dc34c" />
 </td>
