@@ -44,6 +44,10 @@ Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result S
 </td>
     <td><img width="357" height="801" alt="ass2" src="https://github.com/user-attachments/assets/b8b017bf-a443-4bd9-9c82-902e0d8dc34c" />
 </td>
+    <td><img width="357" height="799" alt="ass3" src="https://github.com/user-attachments/assets/bccb3099-0066-4cfb-9b59-4506fffa6a3a" />
+</td>
+    <td><img width="357" height="804" alt="ass4" src="https://github.com/user-attachments/assets/a5f3db9e-0497-48a2-b95f-56a7a1ac6675" />
+</td>
   </tr>
 
 
