@@ -10,4 +10,10 @@ Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result S
 ### ✅ User Authentication
 - Login with username & password  
 - Register new user  
-- Data stored using SharedPreferences  
+- Data stored using SharedPreferences
+
+### 🧠 Quiz Module
+- List of quizzes  
+- Multiple choice questions  
+- Score calculation  
+- Result page with summary   
