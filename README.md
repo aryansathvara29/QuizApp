@@ -25,5 +25,5 @@ Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result S
 3. Open the project in Android Studio  
 4. Sync Gradle  
 5. Run on emulator or device
-   ---
-   
+
+
