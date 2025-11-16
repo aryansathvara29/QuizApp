@@ -16,4 +16,14 @@ Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result S
 - List of quizzes  
 - Multiple choice questions  
 - Score calculation  
-- Result page with summary   
+- Result page with summary
+
+## ▶️ How to Run
+
+1. Install **Android Studio**  
+2. Download or clone the project  
+3. Open the project in Android Studio  
+4. Sync Gradle  
+5. Run on emulator or device
+   ---
+   
