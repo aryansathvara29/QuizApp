@@ -1,4 +1,4 @@
-# 📘 Online Quiz App – Kotlin (Android Studio)
+# 📘 Online Quiz App 
 
 A simple Android Quiz Application built using **Kotlin**, **XML layouts**, and **SharedPreferences** (no Firebase, no Jetpack Compose).  
 Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result Screen**.
@@ -25,5 +25,9 @@ Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result S
 3. Open the project in Android Studio  
 4. Sync Gradle  
 5. Run on emulator or device
+
+---
+
+### Output:
 
 
