@@ -1,12 +1,13 @@
+# 📘 Online Quiz App – Kotlin (Android Studio)
 
-##📘 Online Quiz App – Kotlin (Android Studio)
+A simple Android Quiz Application built using **Kotlin**, **XML layouts**, and **SharedPreferences** (no Firebase, no Jetpack Compose).  
+Includes **Login**, **Register**, **Quiz List**, **Quiz Screen**, and **Result Screen**.
 
-A simple Android Quiz Application built using Kotlin, XML layouts, and SharedPreferences (no Firebase, no Jetpack Compose).
-The app includes Login, Register, Quiz List, Quiz Screen, and Result Screen.
+---
 
-##🚀 Features
+## 🚀 Features
 
-##✅ User Authentication
-Login with username & password
-Register new user
-Data stored using SharedPreferences
+### ✅ User Authentication
+- Login with username & password  
+- Register new user  
+- Data stored using SharedPreferences  
